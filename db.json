@@ -20,7 +20,7 @@
 {
   "id": 3,
   "title": "Dragon News",
-  "overview": "Dragon News is a practice project where I focused on integrating Better Auth with Next.js and MongoDB — getting comfortable with sign up, log in, log out, session management, and protected routes in a real app environment.",
+  "overview": "In this project  I focused on integrating Better Auth with Next.js and MongoDB — getting comfortable with sign up, log in, log out, session management, and protected routes in a real app environment.",
   "image": "https://res.cloudinary.com/dto6szvn9/image/upload/v1778240909/dr_bukd0s.jpg",
   "stack": ["Next.js", "Tailwind CSS" ,"DaisyUI", "HeroUI", "MongoDB",  "Better Auth" ,"Google OAuth ", "Vercel"],
   "liveUrl": "https://dragon-news-with-backend.vercel.app/category/01",
@@ -29,7 +29,7 @@
 {
   "id": 4,
   "title": "Digitool",
-  "overview": " recently built Digitool, a digital service marketplace designed to make buying digital products safer and easier. In today’s world, many users struggle to find trustworthy platforms for digital tools and often face scams or low-quality services. With Digitool, my goal was to create a reliable, user-friendly solution where users can confidently explore and purchase digital services.",
+  "overview": "Digital is service marketplace designed to make buying digital products safer and easier. my goal was to create a reliable, user-friendly solution where users can confidently explore and purchase digital services.",
   "image": "https://res.cloudinary.com/dto6szvn9/image/upload/v1778240910/ggr_ukiyxu.jpg",
   "stack": [ "React",
 "JavaScript (ES6)",
@@ -63,7 +63,7 @@
 {
   "id": 6,
   "title": " AI Hub",
-  "overview": " I Built an AI Tool Discovery Platform – AI Hub. An interactive web application designed to help users explore and purchase a wide range of AI tools. The platform fetches real-time data from APIs and presents AI products in a clean, user-friendly interface for seamless discovery.",
+  "overview": "It is An interactive web application designed to help users explore and purchase a wide range of AI tools. The platform fetches real-time data from APIs and presents AI products in a clean, user-friendly interface.",
   "image": "https://res.cloudinary.com/dto6szvn9/image/upload/v1778240910/ai_model_zupgcf.png",
    "stack": ["JavaScript",
 "React.js",
@@ -78,7 +78,7 @@
 {
   "id": 7,
   "title": " Keen Keeper",
-  "overview": "Keen Keeper is a relationship management web application designed to help users organize, track, and strengthen their connections with friends and acquaintances. It centralizes important information about people in your life and logs every interaction, making relationship management more intentional and structured.",
+  "overview": "Keen Keeper is a relationship management web application designed to help users organize, track, and strengthen their connections with friends and acquaintances.",
   "image": "https://res.cloudinary.com/dto6szvn9/image/upload/v1778240910/30_fpqw33.jpg",
   "stack": ["JavaScript",
 "React.js",
@@ -97,7 +97,7 @@
 {
   "id": 8,
   "title": "PAYoo",
-  "overview": "PAYoo is Mobile Financial Service (MFS) simulation app while learning JavaScript. This project is fully built by me as part of my practice to strengthen my programming logic and problem-solving skills. password: 1234",
+  "overview": "PAYoo is Mobile Financial Service (MFS) simulation app while learning JavaScript. This project is fully built by me as part of my practice of Javascript. password: 1234",
   "image": "https://res.cloudinary.com/dto6szvn9/image/upload/v1778240910/5400479_wiygjl.jpg",
   "stack": ["JavaScript",
 "HTML",
@@ -110,7 +110,7 @@
 {
   "id": 9,
   "title": " English Janala",
-  "overview": "I recently built a small project called English Janala, a web app designed to help people learn English words in a simple and organized way. While building this project, I focused on creating a smooth and easy user experience so that anyone can explore and learn words comfortably. To make learning easier, the words are divided into different lessons, and each word comes with useful information to help understand and remember it better.",
+  "overview": "English Janala is a web app designed to help people learn English words in a simple and organized way.",
   "image": "https://res.cloudinary.com/dto6szvn9/image/upload/v1778240911/23126584_202_cvxeeq.jpg",
  "stack": ["JavaScript",
 "HTML",
