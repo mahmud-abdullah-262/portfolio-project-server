@@ -10,7 +10,7 @@
 },
 {
   "id": 2,
-  "title": " QurbaniHat",
+  "title": " Bake and Cook",
   "overview": "I recently built a food ordering web application where users can browse meals, explore recipes, and manage their cart — all in one place.",
   "image": "https://res.cloudinary.com/dto6szvn9/image/upload/v1778240910/bake_and_cook_vt8ewn.png",
   "stack": ["Next.js", "Tailwind CSS" ,"DaisyUI", "HeroUI",  "Vercel"],
