@@ -163,6 +163,46 @@
       ],
       "liveUrl": "https://qurbani-hat-livestock-booking-platf-eight.vercel.app/",
       "githubUrl": "https://github.com/mahmud-abdullah-262/QurbaniHat-Livestock-Booking-Platform"
+    },
+    {
+      "id": 11,
+      "title": "MediQueue — Tutor Booking System",
+      "overview": "MediQueue is a full-stack tutor booking web application where students can browse verified tutors, book online or offline learning sessions, and manage their scheduled classes — all from one place.",
+      "image": "https://res.cloudinary.com/dto6szvn9/image/upload/v1782577958/Gemini_Generated_Image_fsym35fsym35fsym_qtkklm.png",
+      "stack": [
+        "Next.js",
+        "Tailwind CSS",
+        "HeroUI",
+        "MongoDB",
+        "Better Auth",
+        "Google OAuth ",
+         "Node JS",
+        "Express JS",
+        "Vercel"
+      ],
+      "liveUrl": "https://mediqueue-assignment-project.vercel.app/",
+      "githubUrl": "https://github.com/mahmud-abdullah-262/mediqueue-assignment-project"
+    },
+
+    {
+      "id": 12,
+      "title": "RecipeHub - 🍳",
+      "overview": "RecipeHub is a full-stack recipe-sharing platform where users can discover, share, and manage their favorite recipes. Users can browse recipes by category, save favorites, and many more. Admins get a dedicated dashboard to manage users, recipes, and reports.",
+      "image": "https://res.cloudinary.com/dto6szvn9/image/upload/v1782577959/Gemini_Generated_Image_3igcc33igcc33igc_ziozmv.png",
+      "stack": [
+        "Next.js",
+        "Tailwind CSS",
+        "HeroUI",
+        "MongoDB",
+        "Better Auth",
+        "Google OAuth ",
+        "Vercel",
+        "Node JS",
+        "Express JS"
+      ],
+      "liveUrl": "https://recipehub-client-iota.vercel.app/",
+      "githubUrl": "https://github.com/mahmud-abdullah-262/recipeHub-client"
     }
+
   ]
 }
